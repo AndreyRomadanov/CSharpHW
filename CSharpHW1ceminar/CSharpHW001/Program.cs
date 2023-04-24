@@ -2,10 +2,10 @@
 //a = 5; b = 7 -> max = 7
 //a = 2 b = 10 -> max = 10
 //a = -9 b = -3 -> max = -3
-Console.Write ( " Введите первое число : " ) ; // Предлагаем ввести первое число.
-int nomber1 = int.Parse ( Console.ReadLine ( ) !) ; // Считывает первое число.
-Console.Write ( " Введите второе число : " ) ; // Предлагаем ввести второе число.
-int nomber2 = int.Parse ( Console.ReadLine ( ) !) ; //  Считывает второе число.
-if ( nomber1 > nomber2 ) { Console.WriteLine ( " Большее число первое " + nomber1 + " , меньшее второе " + nomber2 ) ; } // Сравнивает числа , пишет результат .
-else if ( nomber1 < nomber2 ) { Console.WriteLine ( " Большее число второе " + nomber2 + " , меньшее первое " + nomber1 ) ; } //  Сравнивает числа , пишет результат .
-else  { Console.WriteLine ( " Первое число равно второму числу = " + nomber1 ) ; } //  Сравнивает числа , пишет результат .
+Console.Write ( " Введите первое число : " ) ;                                                                                //  Предлагаем ввести первое число.
+int nomber1 = int.Parse ( Console.ReadLine ( ) !) ;                                                                           //  Считывает первое число.
+Console.Write ( " Введите второе число : " ) ;                                                                                //  Предлагаем ввести второе число.
+int nomber2 = int.Parse ( Console.ReadLine ( ) !) ;                                                                           //  Считывает второе число.
+if ( nomber1 > nomber2 ) { Console.WriteLine ( " Большее число первое " + nomber1 + " , меньшее второе " + nomber2 ) ; }      //  Сравнивает числа , пишет результат.
+else if ( nomber1 < nomber2 ) { Console.WriteLine ( " Большее число второе " + nomber2 + " , меньшее первое " + nomber1 ) ; } //  Сравнивает числа , пишет результат.
+else  { Console.WriteLine ( " Первое число равно второму числу = " + nomber1 ) ; }                                            //  Сравнивает числа , пишет результат.

@@ -2,4 +2,13 @@
 //2, 3, 7 -> 7
 //44 5 78 -> 78
 //22 3 9 -> 22
-Console.WriteLine("Hello, World!");
+Console.Write ( " Введите первое число : " ) ;                                     //  Предлагаем ввести первое число.
+int nomber1 = int.Parse ( Console.ReadLine ( ) !) ;                                //  Считывает первое число.
+Console.Write ( " Введите второе число : " ) ;                                     //  Предлагаем ввести второе число.
+int nomber2 = int.Parse ( Console.ReadLine ( ) !) ;                                //  Считывает второе число.
+Console.Write ( " Введите третье число : " ) ;                                     //  Предлагаем ввести третье число.
+int nomber3 = int.Parse ( Console.ReadLine ( ) !) ;                                //  Считывает третье число.
+int maximum = nomber1 ;                                                            //  Вводим переменную для максимального числа.
+if ( nomber2 > maximum ) { maximum = nomber2 ; }                                   //  Сравнивает числа.
+if ( nomber3 > maximum ) { maximum = nomber3 ; }                                   //  Сравнивает числа.
+Console.WriteLine ( " Максимальное из введённых трёх чисел - число " + maximum ) ; //  Выводим результат на экран.
