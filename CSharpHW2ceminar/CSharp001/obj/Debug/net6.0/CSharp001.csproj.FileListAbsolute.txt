@@ -1,0 +1,15 @@
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW2ceminar\CSharp001\obj\Debug\net6.0\CSharp001.csproj.AssemblyReference.cache
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW2ceminar\CSharp001\obj\Debug\net6.0\CSharp001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW2ceminar\CSharp001\obj\Debug\net6.0\CSharp001.AssemblyInfoInputs.cache
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW2ceminar\CSharp001\obj\Debug\net6.0\CSharp001.AssemblyInfo.cs
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW2ceminar\CSharp001\obj\Debug\net6.0\CSharp001.csproj.CoreCompileInputs.cache
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW2ceminar\CSharp001\bin\Debug\net6.0\CSharp001.exe
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW2ceminar\CSharp001\bin\Debug\net6.0\CSharp001.deps.json
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW2ceminar\CSharp001\bin\Debug\net6.0\CSharp001.runtimeconfig.json
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW2ceminar\CSharp001\bin\Debug\net6.0\CSharp001.dll
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW2ceminar\CSharp001\bin\Debug\net6.0\CSharp001.pdb
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW2ceminar\CSharp001\obj\Debug\net6.0\CSharp001.dll
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW2ceminar\CSharp001\obj\Debug\net6.0\refint\CSharp001.dll
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW2ceminar\CSharp001\obj\Debug\net6.0\CSharp001.pdb
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW2ceminar\CSharp001\obj\Debug\net6.0\CSharp001.genruntimeconfig.cache
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW2ceminar\CSharp001\obj\Debug\net6.0\ref\CSharp001.dll
