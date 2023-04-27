@@ -5,6 +5,7 @@
 // 78 -> третьей цифры нет
 
 // 32679 -> 6
+ 
  ThirdElemDigitNumber ( ) ;                                         // Использовали метод.
  
  void ThirdElemDigitNumber ( )                                      // Создали метод.
