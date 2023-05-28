@@ -2,7 +2,7 @@
 // [3 7 22 2 78] -> 76
 
 
-DifferenceBetweenMaxMinValue ( ) ;
+DifferenceBetweenMaxMinValue ( ) ;                  // Решаем задачу.
 
 void DifferenceBetweenMaxMinValue ( )               // Ищем минимальное и максимальное число в массиве , вычисляем разницу.
 {
@@ -24,7 +24,6 @@ if ( ArrayRealValue [ i ] < min )
 }
 }
 Console.WriteLine ( $" Вычисляем максимальное   :  { max } , и минимальное   :  { min }  числа в массиве.") ;
-//double rezulte = Math.Round ( ( max - min ) , 2 );
 Console.WriteLine ( $" Вычисляем разницу между максимальным и минимальным числом в массиве  :  { Math.Round ( ( max - min ) , 2 ) }.") ;
 }
 
