@@ -1,0 +1,15 @@
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW9ceminar\CSharpHW001\bin\Debug\net6.0\CSharpHW001.exe
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW9ceminar\CSharpHW001\bin\Debug\net6.0\CSharpHW001.deps.json
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW9ceminar\CSharpHW001\bin\Debug\net6.0\CSharpHW001.runtimeconfig.json
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW9ceminar\CSharpHW001\bin\Debug\net6.0\CSharpHW001.dll
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW9ceminar\CSharpHW001\bin\Debug\net6.0\CSharpHW001.pdb
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW9ceminar\CSharpHW001\obj\Debug\net6.0\CSharpHW001.csproj.AssemblyReference.cache
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW9ceminar\CSharpHW001\obj\Debug\net6.0\CSharpHW001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW9ceminar\CSharpHW001\obj\Debug\net6.0\CSharpHW001.AssemblyInfoInputs.cache
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW9ceminar\CSharpHW001\obj\Debug\net6.0\CSharpHW001.AssemblyInfo.cs
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW9ceminar\CSharpHW001\obj\Debug\net6.0\CSharpHW001.csproj.CoreCompileInputs.cache
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW9ceminar\CSharpHW001\obj\Debug\net6.0\CSharpHW001.dll
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW9ceminar\CSharpHW001\obj\Debug\net6.0\refint\CSharpHW001.dll
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW9ceminar\CSharpHW001\obj\Debug\net6.0\CSharpHW001.pdb
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW9ceminar\CSharpHW001\obj\Debug\net6.0\CSharpHW001.genruntimeconfig.cache
+D:\Gitbraints\CSHARP\CSharpHW\CSharpHW9ceminar\CSharpHW001\obj\Debug\net6.0\ref\CSharpHW001.dll
